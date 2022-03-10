@@ -10,3 +10,9 @@ body{
     align-items: center;
     flex-direction: column;
 }
+.nom{
+    padding-top: 50px;
+    text-align: center;
+    color: #ff5900;
+    font-size: 20px;
+}
